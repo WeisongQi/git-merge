@@ -1,5 +1,5 @@
 # Es ist ein Wiki 
 
-_______
+## Hardware
 
 *technische Begriffe*
