@@ -5,7 +5,7 @@
 ## Software - entwicklung
 
 
-## HardWare
+## HardWare - Aufbau
 
 
 *technische Begriffe*
